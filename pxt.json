@@ -1,5 +1,5 @@
 {
-    "name": "pxt-DFRobt_URM09_Trig",
+    "name": "DFRobt_URM09_Trig",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -12,6 +12,7 @@
         "main.ts",
         "shims.d.ts",
         "enums.d.ts",
+       "_locales/zh-cn/DFRobt_URM09_Trig-strings.json",
         "README.md",
         "trig.ts"
     ],
