@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="hn5/aqn+..a3V{O[cY!y" x="0" y="0"/><block type="device_forever" id="MXd[*SX[o$?kMblIX4F$" x="205" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="IZtT6L#qZd@[h-jb674:" x="0" y="278"/><block type="typescript_expression" id="@$t]r5z3}v@k~,ckXZpK" disabled="true" editable="false" x="683" y="403"><field name="EXPRESSION">pins.pulseIn(DigitalPin.P2, PulseValue.High,35000)</field></block></xml>

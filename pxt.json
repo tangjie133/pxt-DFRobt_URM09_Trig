@@ -9,10 +9,10 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "time.cpp",
         "shims.d.ts",
         "enums.d.ts",
-        "README.md"
+        "README.md",
+        "trig.ts"
     ],
     "testFiles": [
         "test.ts"
