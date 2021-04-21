@@ -9,6 +9,7 @@
     "files": [
         "main.blocks",
         "main.ts",
+		"time.cpp",
         "README.md"
     ],
     "testFiles": [
