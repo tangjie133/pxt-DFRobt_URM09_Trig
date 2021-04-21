@@ -13,7 +13,7 @@ enum PIN {
 };
 
 //color=#6699CC
-//% weight=10 color=#378CE1 icon="\uf101" block="trig"
+//% weight=10 color=#378CE1 icon="\uf101" block="URM09 Trig"
 namespace trig {
 
     //%block="get pin %pin ultrasonic sensor  range units(cm)"
