@@ -16,7 +16,7 @@ enum PIN {
 //% weight=10 color=#378CE1 icon="\uf101" block="URM09 Trig"
 namespace trig {
 
-    //%block="get pin %pin ultrasonic sensor  range units(cm)"
+    //%block="get %pin pin ultrasonic sensor  range units(cm)"
     export function ultraSonic(pin: PIN): number {
         let _pin;
         switch (pin) {

@@ -1,5 +1,5 @@
 {
     
-    "trig.ultraSonic|block": "获取引脚 %pin 超声波距离 单位（cm）"
+    "trig.ultraSonic|block": "获取 %pin 引脚超声波距离 单位（cm）"
     
 }
